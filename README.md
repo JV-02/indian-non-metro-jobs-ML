@@ -19,7 +19,7 @@ Python, Pandas, Scikit-learn
 - Real-world job market analysis
 
 ## Files
-- jobs_ml_project.ipynb
+- Machine Learning on Indian Non Metro Jobs Data.ipynb
 
 ## How to Run
 Execute notebook cells in order to train and evaluate models.
